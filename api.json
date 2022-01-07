@@ -1,0 +1,36 @@
+{
+  "autores": [
+    {
+      "id": 1,
+      "nombre": "Marcos Rodrigo"
+    },
+    {
+      "id": 2,
+      "nombre": "Isaac Rodrigo"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "titulo": "Cómo crear una API simulada para pruebas",
+      "autor": 1
+    },
+    {
+      "id": 2,
+      "titulo": "Cómo usar una API simulada en frontend",
+      "autor": 2
+    }
+  ],
+  "comentarios": [
+    {
+      "id": 1,
+      "mensaje": "Muy interesante!",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "mensaje": "Mensaje desde Hoppscotch.io",
+      "postId": 1
+    }
+  ]
+}
